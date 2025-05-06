@@ -1,0 +1,13 @@
+Opis problemu:
+
+Niedawno napisałeś generator liczb losowych dla aplikacji internetowej, ale zauważyłeś, że pewien haker go złamał. Teraz generator częściej zwraca liczby różniące się o pewną zadaną wartość k. Jako haker postanawiasz napisać program, który przyjmie n liczb jako wejście oraz wartość k i znajdzie liczbę par liczb, których różnica bezwzględna wynosi dokładnie k.
+
+Wejście:
+
+Pierwsza linia zawiera dwie liczby całkowite n i k.
+
+Druga linia zawiera n różnych liczb całkowitych.
+
+Wyjście:
+
+Jedna liczba całkowita — liczba par liczb, których różnica bezwzględna wynosi dokładnie k.
